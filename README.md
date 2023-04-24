@@ -1,7 +1,7 @@
 ## Hey I am Lockly 👋
 
 - 🎉A sophomore now
-- 🚀I am interesting in writing Offensive Tools in Go and Java
+- 🚀I am interesting in writing Offensive Tools in Go
 - 🏸Favorite：badminton
 - 🌏Plan for Iceland on my own after graduation
 <div>
